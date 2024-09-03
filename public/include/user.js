@@ -59,7 +59,6 @@ const user = (function() {
       ls.remove('auth_respond');
       if (data.signup) {
         self.pendingSignupToken = data.token;
-        self.elements.signup.fadeIn(200);
         
         function generateRandomString(length) {
           const characters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz';
