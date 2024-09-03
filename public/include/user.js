@@ -60,6 +60,21 @@ const user = (function() {
       if (data.signup) {
         self.pendingSignupToken = data.token;
         self.elements.signup.fadeIn(200);
+        
+        function generateRandomString(length) {
+          const characters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz';
+          let result = '';
+          for (let i = 0; i < length; i++) {
+            result += characters.charAt(Math.floor(Math.random() * characters.length));
+          }
+          return result;
+        }
+        
+        let temp_username = "temporary-" + generateRandomString(15);
+        let input = document.getElementById("signup-username-input");
+        input.value = temp_username;
+        let button = document.getElementById("signup-button");
+        button.click();
       } else {
         socket.reconnectSocket();
       }
@@ -136,21 +151,6 @@ const user = (function() {
     },
     doSignup: function() {
       if (!self.pendingSignupToken) return;
-
-      function generateRandomString(length) {
-        const characters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz';
-        let result = '';
-        for (let i = 0; i < length; i++) {
-          result += characters.charAt(Math.floor(Math.random() * characters.length));
-        }
-        return result;
-      }
-      
-      let temp_username = "temporary-" + generateRandomString(15);
-      let input = document.getElementById("signup-username-input");
-      input.value = temp_username;
-      let button = document.getElementById("signup-button");
-      button.click();
       
       $.post({
         type: 'POST',
