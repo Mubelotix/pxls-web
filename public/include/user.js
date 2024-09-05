@@ -69,7 +69,7 @@ const user = (function() {
           return result;
         }
         
-        let temp_username = "temporary-" + generateRandomString(15);
+        let temp_username = "tmp-" + generateRandomString(7);
         let input = document.getElementById("signup-username-input");
         input.value = temp_username;
         let button = document.getElementById("signup-button");
