@@ -1351,7 +1351,7 @@ msgstr "Nous nous attendons à ce que les départements avec moins d'étudiants 
 
 #: /views/partials/info.handlebars
 msgid "Please keep in mind that those numbers may slightly vary as not all students are fully registering in INSA systems yet. Upon request, we will manually approve those who didn't fully pay their tuition fees."
-msgstr "Gardez à l'esprit que ces chiffres peuvent légèrement varier car tous les étudiants ne sont pas encore pleinement enregistrés dans les systèmes de l'INSA. Sur demande, nous approuverons manuellement ceux qui n'ont pas encore payé leurs frais d'inscription."
+msgstr "Gardez à l'esprit que ces chiffres peuvent légèrement varier car tous les étudiants ne sont pas encore complètement enregistrés dans les systèmes de l'INSA. Sur demande, nous approuverons manuellement ceux qui n'ont pas encore payé leurs frais d'inscription."
 
 #: /views/partials/info.handlebars
 msgid "Chat Rules"
