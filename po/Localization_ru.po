@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Pxls\n"
-"POT-Creation-Date: 2023-12-31T21:19:19.842Z\n"
+"POT-Creation-Date: 2024-09-07T14:28:51.554Z\n"
 "Language: ru\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
@@ -1186,40 +1186,40 @@ msgid "Why is the cooldown as long as it is?"
 msgstr "Почему время получения нового пикселя такое длинное?"
 
 #: /views/partials/faq.handlebars
-msgid "The time it takes to get a pixel is dynamic, and changes based on how many people are online. The cooldown time is longer when more users are online."
-msgstr "Время, необходимое для получения пикселя, рассчитывается динамически и изменяется в зависимости от того, сколько людей находится в сети. Время получения пикселя увеличивается, когда в сети больше пользователей."
+msgid "The time it takes to get a pixel is dynamic, and changes based on how many people are online. The cooldown time is longer when more users are online. The cooldown is also doubled when overwriting an already-placed pixel."
+msgstr ""
 
 #: /views/partials/faq.handlebars
-msgid "Why does it say 0/6 pixels?"
-msgstr "Почему написано 0/6 пикселей?"
+msgid "Why does it say 0/10 pixels?"
+msgstr ""
 
 #: /views/partials/faq.handlebars
-msgid "This means that you are waiting for your next pixel. When you place a pixel, there is a cooldown for when you can place the next one. Over time, you can gain up to 6 \"stacked\" pixels to place at once."
-msgstr "Это означает, что вы ждете следующего пикселя. Когда вы размещаете пиксель, есть время восстановления до того, когда вы можете разместить следующий. Со временем вы можете получить до 6 накопленных пикселей, которые можете сразу же разместить."
+msgid "This means that you are waiting for your next pixel. When you place a pixel, there is a cooldown for when you can place the next one. Over time, you can gain up to 10 \"stacked\" pixels to place at once."
+msgstr ""
 
 #: /views/partials/faq.handlebars
 msgid "Why does it take so long to \"stack\" pixels?"
 msgstr "Почему так долго накапливаются пиксели?"
 
 #: /views/partials/faq.handlebars
-msgid "This is by design. It is better to place a pixel as soon as you get one. Pixel \"stacking\" is meant to give you a bump if you go AFK for a bit. It takes around 40 minutes to get a full 6/6 pixels, but it only takes around 3 minutes to place 6 pixels if you place them as soon as possible."
-msgstr "Это сделано намеренно. Лучше разместить пиксель, как только вы его получите. Накопление пикселей должно дать вам толчок, если вы отошли на некоторое время и вернулись. Чтобы получить полные 6/6 пикселей, требуется около 40 минут, но для размещения 6 пикселей, по отдельности без накопления, требуется всего около 3 минут."
+msgid "This is by design. It is better to place a pixel as soon as you get one. Pixel \"stacking\" is meant to give you a bump if you go AFK for a bit. Pixel stack 5 times slower than the normal cooldown."
+msgstr ""
 
 #: /views/partials/faq.handlebars
 msgid "How do I appeal a ban?"
 msgstr "Как мне обжаловать бан?"
 
 #: /views/partials/faq.handlebars
-msgid "Contact us on <a href=\"https://pxls.space/discord\" target=\"_blank\">Discord</a> or send an appeal to our <a href=\"https://pxls.space/appeal\" target=\"_blank\">Google form</a> after reading the rules in the site's info panel."
-msgstr "Напишите нам в <a href=\"https://pxls.space/discord\" target=\"_blank\">Discord</a> или отправьте обращение в нашeй <a href=\"https://pxls.space/appeal\" target=\"_blank\">Google форме</a> после прочтения правил в информационной панели сайта."
+msgid "Contact us on <a href=\"https://discord.com/invite/TpdbUyfcbJ\" target=\"_blank\">Discord</a> or send me an appeal at <a href=\"mailto:simon.girard@insa-rouen.fr\" target=\"_blank\">simon.girard@insa-rouen.fr</a> after reading the rules in the site's info panel."
+msgstr ""
 
 #: /views/partials/faq.handlebars
 msgid "How do I make a template?"
 msgstr "Как мне сделать шаблон?"
 
 #: /views/partials/faq.handlebars
-msgid "A template is an image link that is posted in the template textbox in the settings panel so you can place over it on the canvas. You may use a regular image link to your pixel art, but many people use 3rd party tools like <a href=\"https://charity.pxls.space\" target=\"_blank\">Charity</a> or <a href=\"https://discord.gg/5MVDCq53vC\" target=\"blank\">Clueless</a> to turn pixel art into a fancier link. If you need to make pixel art yourself, you can use <a href=\"https://www.piskelapp.com/p/create\" target=\"_blank\">Piskel</a> to create art to put into Charity or Clueless."
-msgstr "Шаблон — это ссылка на изображение, которая размещена в текстовом поле шаблона на панели настроек, чтобы вы могли поместить ее на холст. Вы можете использовать обычную ссылку на изображение для своего пиксельного арта, но многие люди используют сторонние инструменты, такие как <a href=\"https://charity.pxls.space\" target=\"_blank\">Charity</a> или <a href=\"https://discord.gg/5MVDCq53vC\" target=\"blank\">Clueless</a> чтобы превратить пиксель-арт в более красивую ссылку. Если вам нужно сделать пиксель-арт самостоятельно, вы можете использовать <a href=\"https://www.piskelapp.com/p/create\" target=\"_blank\">Piskel</a> для создания артов и для размещения их в Charity или Clueless."
+msgid "A template is an image link that is posted in the template textbox in the settings panel so you can place over it on the canvas. You may use a regular image link to your pixel art, but many people use 3rd party tools. If you need to make pixel art yourself, you can use <a href=\"https://www.piskelapp.com/p/create\" target=\"_blank\">Piskel</a>."
+msgstr ""
 
 #: /views/partials/faq.handlebars
 msgid "How do I move a template?"
@@ -1230,24 +1230,20 @@ msgid "Hold <kbd>CTRL</kbd> (or <kbd>OPTION</kbd> on macOS) and click and drag t
 msgstr "Удерживайте <kbd>CTRL</kbd> (или <kbd>OPTION</kbd> на macOS), щелкните ЛКМ и перетяните куда вам нужно, чтобы переместить его. На мобильном устройстве вы можете нажать и удерживать то место, куда вы хотите переместить шаблон, и щелкнуть «Переместить шаблон сюда» во всплывающем окне."
 
 #: /views/partials/faq.handlebars
-msgid "Does the canvas reset? When?"
-msgstr "Меняется ли полотно? Когда?"
+msgid "When does the event end?"
+msgstr ""
 
 #: /views/partials/faq.handlebars
-msgid "Yes. The canvas resets when it is completely full. A reset date is not usually decided until the canvas is full, but the average canvas life-span is around 1 month. Updates are posted in our <a href=\"https://pxls.space/discord\" target=\"_blank\">Discord server</a> when a reset date is set."
-msgstr "Да. Полотно меняется, когда оно полностью заполнено. Дата сброса полотна обычно не определяется, пока полотно не будет заполнено, но средний срок жизни полотна составляет около 1 месяца. Обновления размещены в нашем <a href=\"https://pxls.space/discord\" target=\"_blank\">Дискорде</a> когда установлена дата сброса."
+msgid "The even will last until Friday evening. The precise time will not be announced to prevent last-second vandalism."
+msgstr ""
 
 #: /views/partials/faq.handlebars
-msgid "Where can I see the past canvases?"
-msgstr "Где я могу увидеть прошлые полотна?"
+msgid "How many integration points will departments receive?"
+msgstr ""
 
 #: /views/partials/faq.handlebars
-msgid "The past canvases are featured on our <a href=\"https://pxls.space/discord\" target=\"_blank\">Discord server</a>, or the 3rd party website <a href=\"https://pxlsfiddle.com\" target=\"_blank\">PxlsFiddle</a>, which records timelapses and a lot of useful information on each canvas."
-msgstr "Прошлые полотна представлены на нашем сайте, <a href=\"https://pxls.space/discord\" target=\"_blank\">Дискорде</a>, или на стороннем веб-сайте <a href=\"https://pxlsfiddle.com\" target=\"_blank\">PxlsFiddle</a>, который записывает таймлапсы и много полезной информации по каждому полотну."
-
-#: /views/partials/faq.handlebars
-msgid "How do I see who placed a pixel?"
-msgstr "Как мне посмотреть, кто поставил пиксель?"
+msgid "We will select an amount the feels appropriately large once we get a better overview of the worth of these points."
+msgstr ""
 
 #: /views/partials/faq.handlebars
 msgid "By shift-clicking (or tap and hold on mobile) a pixel, you can see who placed a pixel, how many pixels they have placed, and when they placed it."
@@ -1258,24 +1254,16 @@ msgid "How do I report someone?"
 msgstr "Как пожаловаться на кого-то или написать о нарушении правил?"
 
 #: /views/partials/faq.handlebars
-msgid "Shift-click (or tap and hold on mobile) on a pixel, and click the Report button."
-msgstr "Удерживая нажатой клавишу Shift щелкните ЛКМ на пиксель (или нажмите и удерживайте ЛКМ/на экране телефона), нажмите кнопку «Жалоба» (Report). В чате вы можете просто нажать на ник нарушителя и нажать кнопку «Жалоба» (Report)."
-
-#: /views/partials/faq.handlebars
-msgid "How do I change the color of my name in the chat?"
-msgstr "Как поменять цвет моего ника в чате?"
-
-#: /views/partials/faq.handlebars
-msgid "There is a \"Username Color\" option near the bottom of the settings panel."
-msgstr "В нижней части панели настроек есть опция «Цвет имени пользователя»."
+msgid "Do not use the report button, admins won't see those. Just contact us on <a href=\"https://discord.com/invite/TpdbUyfcbJ\" target=\"_blank\">Discord</a> or send me a report at <a href=\"mailto:simon.girard@insa-rouen.fr\" target=\"_blank\">simon.girard@insa-rouen.fr</a> after reading the rules."
+msgstr ""
 
 #: /views/partials/faq.handlebars
 msgid "What is a \"virginmap\"?"
 msgstr "Что такое \"virginmap\"?"
 
 #: /views/partials/faq.handlebars
-msgid "The virginmap shows which pixels have not yet been placed on (or “virgin” pixels)."
-msgstr "Virginmap показывает, какие пиксели еще не были размещены на полотне (или “девственные” пиксели)."
+msgid "The virginmap shows which pixels have not yet been placed on (or “virgin” pixels). Place on these pixels first as they give smaller cooldowns."
+msgstr ""
 
 #: /views/partials/faq.handlebars
 msgid "How do I report bugs?"
@@ -1290,24 +1278,28 @@ msgid "How do I get more info or contact staff?"
 msgstr "Как мне получить дополнительную информацию или связаться с администраторами?"
 
 #: /views/partials/faq.handlebars
-msgid "Check the info panel (the icon on the top left) for more details and links, or join our <a href=\"https://pxls.space/discord\" target=\"_blank\">Discord server</a>, where a staff member will gladly respond."
-msgstr "Просмотрите информационную панель (значок в левом верхнем углу) для получения более подробной информации и ссылок, или присоединитесь к нашему <a href=\"https://pxls.space/discord\" target=\"_blank\">Дискорду</a>, где члены команды модерации с радостью ответят."
+msgid "Check the info panel (the icon on the top left) for more details and links, or join our <a href=\"https://discord.com/invite/TpdbUyfcbJ\" target=\"_blank\">Discord server</a>, where a staff member will gladly respond."
+msgstr ""
 
 #: /views/partials/info.handlebars
 msgid "Welcome!"
 msgstr "Добро пожаловать!"
 
 #: /views/partials/info.handlebars
-msgid "Welcome to pxls.space! Pxls is a multiplayer online collaborative canvas based on Reddit's <a href=\"https://www.reddit.com/r/place\" target=\"_blank\">r/place</a> event from 2017 that allows you to create anything you can imagine, one pixel at a time. Join hundreds of other players in the Pxls community and create amazing works of art together as a team, or solo."
-msgstr "Добро пожаловать на pxls.space! Pxls - это многопользовательский онлайн-холст для совместной работы, который позволяет вам создавать все, что вы можете вообразить, по одному пикселю за раз. Присоединяйтесь к сотням других игроков в сообществе Pxls и создавайте потрясающие произведения искусства вместе в команде, или в одиночку."
+msgid "Welcome to INSA's pixel war! This is a temporary event part of the 2024 student integration at INSA Rouen. This website allows you to create anything you can imagine, one pixel at a time. The canvas is open from Monday to Friday between 7am and 10pm."
+msgstr ""
 
 #: /views/partials/info.handlebars
-msgid "The best place to reach staff and fellow community is in the discord!"
-msgstr "Лучшее место для общения с сотрудниками модерации и сообществом - это наш Дискорд!"
+msgid "Students participate as team members of their departments' factions. Departments will be ranked at the end of the event and will be rewarded for their efforts. Every participating department will receive points based on <a href=\"/stats\">their ranking</a>. The amount of points will be announced in a few days."
+msgstr ""
 
 #: /views/partials/info.handlebars
-msgid "Check out our social media pages, and please take the time to read the rules below. Have fun creating (or changing) art!"
-msgstr "Посетите наши страницы в социальных сетях и пожалуйста, прочитайте приведенные ниже правила. Развлекайтесь, создавая (или меняя) рисунки!"
+msgid "The best place to reach me, Simon the admin, and the community is <a href=\"https://discord.com/invite/TpdbUyfcbJ\">the discord</a>, but you can also send me an email at <a href=\"mailto:simon.girard@insa-rouen.fr\">simon.girard@insa-rouen.fr</a>."
+msgstr ""
+
+#: /views/partials/info.handlebars
+msgid "Please take the time to read the rules below, and have fun creating (or changing) art!"
+msgstr ""
 
 #: /views/partials/info.handlebars
 msgid "Canvas Rules"
@@ -1318,36 +1310,16 @@ msgid "We pride ourselves on trying to keep an open canvas for all free from out
 msgstr "Мы гордимся тем, что пытаемся сохранить нашу площадку открытой для всех, свободной от внешнего вмешательства с нашей стороны, и особенно от цензуры. Однако ради блага сообщества и исходя из наших собственных убеждений, пожалуйста, примите во внимание следующие правила и соблюдайте их:"
 
 #: /views/partials/info.handlebars
-msgid "No hateful imagery or derogatory speech. This includes but is not limited to words such as <i>f****t</i>, <i>n****r</i>, etc; as well as the Swastika, Hammer and Sickle, and any symbols of terrorism."
-msgstr "Никаких символов ненависти или уничижительных речей. Это включает, но не ограничивается такими словами, как <i>f****t (пидор)</i>, <i>n****r (нигер)</i>, и т.д.; так же как свастика и любые другие символы терроризма."
+msgid "No hateful imagery or derogatory speech."
+msgstr ""
 
 #: /views/partials/info.handlebars
-msgid "No NSFW or NSFL content."
-msgstr "Никакого NSFW или NSFL контента."
+msgid "No NSFW content."
+msgstr ""
 
 #: /views/partials/info.handlebars
-msgid "No nudity or otherwise sexually explicit content"
-msgstr "Запрещено изображение обнаженной натуры или иной контент откровенно сексуального характера."
-
-#: /views/partials/info.handlebars
-msgid "No female-presenting nipples/bare breasts, genitalia, sexual fluids"
-msgstr "Никаких женских сосков/обнаженной груди, гениталий, половых жидкостей."
-
-#: /views/partials/info.handlebars
-msgid "No sexual imagery/erotica"
-msgstr "Никаких сексуальных образов/эротики"
-
-#: /views/partials/info.handlebars
-msgid "No excessive blood or otherwise obscene/shocking content"
-msgstr "Запрещены изображения с чрезмерным количеством крови или иного непристойного/шокирующего содержания"
-
-#: /views/partials/info.handlebars
-msgid "No more than <b>one</b> account per user, no exceptions. Multiple account users will be banned from creating art on the canvas."
-msgstr "Не более чем <b>один</b> аккаунт на пользователя, без исключений. Пользователям, владеющими несколькими аккаунтами будет запрещено создавать изображения на холсте."
-
-#: /views/partials/info.handlebars
-msgid "No auto-placement tools of any kind, you must place the pixels manually."
-msgstr "Никаких инструментов автоматического размещения, вы должны ставить пиксели вручную."
+msgid "No auto-placement tools of any kind: you must place the pixels manually."
+msgstr ""
 
 #: /views/partials/info.handlebars
 msgid "Do not abuse site functionality, such as reports or lookups. (e.g. automated reporting/lookups, etc.)"
@@ -1358,88 +1330,60 @@ msgid "Any automated aggregation of data from user lookups is not allowed, and w
 msgstr "Любое автоматическое сохранение данных из просмотров пикселей пользователей запрещено и приведет к бану."
 
 #: /views/partials/info.handlebars
-msgid "Staff have final say in any rule disputes"
-msgstr "Персонал модерации сайта имеет последнее слово в любых спорах о правилах"
-
-#: /views/partials/info.handlebars
-msgid "If you feel a moderator has acted inappropriately, please report it to an administrator."
-msgstr "Если вы считаете, что модератор действовал ненадлежащим образом, сообщите об этом администратору."
+msgid "No sharing of accounts."
+msgstr ""
 
 #: /views/partials/info.handlebars
 msgid "If you believe you have been falsely banned you may contact a moderator or administrator."
 msgstr "Если вы считаете, что вас забанили по ошибке, вы можете связаться с модератором или администратором."
 
 #: /views/partials/info.handlebars
+msgid "The last event was ruined by cheaters over the last 6 hours. Such behavior will not be tolerated and will be severely punished. At the end of the event, we will deeply scan the logs and will investigate any suspicious activity. Cheaters will see their pixels removed and have their name publicly displayed for everyone to see. If you attempt to cheat, I might not find out right away, but expect me when I review the logs."
+msgstr ""
+
+#: /views/partials/info.handlebars
+msgid "Usage of templates is autorized and encouraged."
+msgstr ""
+
+#: /views/partials/info.handlebars
+msgid "Departments with less students are expected to cover less territory. To balance the game, we don't directly rank departments by their territory but apply a coefficient to ensure fair chances for everyone. Coefficients are as follows (over than 1 is favorable):"
+msgstr ""
+
+#: /views/partials/info.handlebars
+msgid "Please keep in mind that those numbers may slightly vary as not all students are fully registering in INSA systems yet. Upon request, we will manually approve those who didn't fully pay their tuition fees."
+msgstr ""
+
+#: /views/partials/info.handlebars
 msgid "Chat Rules"
 msgstr "Правила чата"
 
 #: /views/partials/info.handlebars
-msgid "Keep chat civil. No harassment or homophobic/transphobic/disablist language."
-msgstr "Поддерживайте вежливость в чате. Запрещены оскорбления или гомофобные/трансфобные высказывания/оскорбления инвалидов."
+msgid "No hate speech or hate symbols"
+msgstr ""
 
 #: /views/partials/info.handlebars
-msgid "No hate speech. This includes emoji/symbols/ASCII art."
-msgstr "Никаких ненавистнических высказываний. Сюда же входят эмодзи/символы/изображения ASCII."
+msgid "No harassment and insults"
+msgstr ""
 
 #: /views/partials/info.handlebars
-msgid "Normal swearing/etc is allowed"
-msgstr "Резрешены обычные ругательства и т.п."
+msgid "No spam (repetitive messages, copypasta, ascii art, etc.)"
+msgstr ""
 
 #: /views/partials/info.handlebars
-msgid "No spamming"
-msgstr "Никакого спама"
+msgid "No linking towards websites with inappropriate content"
+msgstr ""
 
 #: /views/partials/info.handlebars
-msgid "This includes excessive ASCII art/emojis/symbols/whitespace"
-msgstr "Это включает в себя чрезмерное количество изображений ASCII/смайлов/символов/пробелов."
-
-#: /views/partials/info.handlebars
-msgid "No \"copy pasta\"s"
-msgstr "Никаких копирований (паст) - например скопированные анекдоты, тексты песен и т.д."
-
-#: /views/partials/info.handlebars
-msgid "No links to sites that actively break the canvas or chat rules (e.g. porn sites)"
-msgstr "Запрещены ссылки на сайты, которые активно нарушают правила полотна или чата (например, порносайты)"
-
-#: /views/partials/info.handlebars
-msgid "No symbology which break the canvas or chat rules (e.g. NSFW ASCII art)"
-msgstr "Никаких символов, нарушающих правила полотна или чата (например, NSFW ASCII изображения)"
-
-#: /views/partials/info.handlebars
-msgid "No personal information"
-msgstr "Запрещена личная информация и ее распространение"
+msgid "Not doxing"
+msgstr ""
 
 #: /views/partials/info.handlebars
 msgid "Links"
 msgstr "Ссылки"
 
-#: /views/partials/info.handlebars
-msgid "Terms of Service"
-msgstr ""
-
-#: /views/partials/info.handlebars
-msgid "Privacy Policy"
-msgstr ""
-
-#: /views/partials/info.handlebars
-msgid "Discord (main hub)"
-msgstr "Discord (основной)"
-
-#: /views/partials/info.handlebars
-msgid "Twitter"
-msgstr "Twitter"
-
-#: /views/partials/info.handlebars
-msgid "GitHub (back end)"
-msgstr ""
-
-#: /views/partials/info.handlebars
-msgid "GitHub (front end)"
-msgstr ""
-
-#: /views/partials/info.handlebars
-msgid "Single-player mode"
-msgstr "Одиночный режим"
+#: /views/partials/info.handlebars /public/include/lookup.js
+msgid "Discord"
+msgstr "Дискорд"
 
 #: /views/partials/info.handlebars
 msgid "Statistics"
@@ -1450,32 +1394,32 @@ msgid "Profile (user info, factions, etc.)"
 msgstr "Профиль (информация пользователя, фракции, и т.д.)"
 
 #: /views/partials/info.handlebars
-msgid "Wiki"
+msgid "GitHub (back end)"
 msgstr ""
 
 #: /views/partials/info.handlebars
-msgid "Generator, progress checker, and monitor for Pxls templates"
-msgstr "Генератор, средство проверки прогресса и мониторинг для шаблонов Pxls"
+msgid "GitHub (front end)"
+msgstr ""
 
 #: /views/partials/info.handlebars
-msgid "Charity (templates, monitors, etc.)"
-msgstr "Charity (шаблоны, мониторинг и т.д.)"
+msgid "Reddit alternative"
+msgstr ""
 
 #: /views/partials/info.handlebars
-msgid "Archives"
-msgstr "Aрхивы"
+msgid "Single-player mode"
+msgstr "Одиночный режим"
 
 #: /views/partials/info.handlebars
-msgid "PxlsFiddle (archives)"
-msgstr "PxlsFiddle (архивы)"
+msgid "INSA.lol"
+msgstr ""
 
 #: /views/partials/info.handlebars
-msgid "Donate"
-msgstr "Пожертвования"
+msgid "INSAgenda"
+msgstr ""
 
 #: /views/partials/info.handlebars
-msgid "Donations are not accepted at this time, but this panel will be updated when they're open again!"
-msgstr "Пожертвования в настоящее время не принимаются, но эта панель будет обновлена, когда они снова откроются!"
+msgid "@mubelotix"
+msgstr ""
 
 #: /views/profile.handlebars
 msgid "{0}'s Profile"
@@ -2344,10 +2288,6 @@ msgstr "только что"
 msgid "${hoursStr}:${minuteStr}:${secsStr} ago"
 msgstr "${hoursStr}:${minuteStr}:${secsStr} назад"
 
-#: /public/include/lookup.js
-msgid "Discord"
-msgstr "Дискорд"
-
 #: /public/include/notifications.js
 msgid "Posted by ${notification.who}"
 msgstr "Сообщение от ${notification.who}"
@@ -2519,6 +2459,144 @@ msgstr ""
 #: /public/pxls.js
 msgid "Alert"
 msgstr "Предупреждение"
+
+#~ msgid "The time it takes to get a pixel is dynamic, and changes based on how many people are online. The cooldown time is longer when more users are online."
+#~ msgstr "Время, необходимое для получения пикселя, рассчитывается динамически и изменяется в зависимости от того, сколько людей находится в сети. Время получения пикселя увеличивается, когда в сети больше пользователей."
+
+#~ msgid "Why does it say 0/6 pixels?"
+#~ msgstr "Почему написано 0/6 пикселей?"
+
+#~ msgid "This means that you are waiting for your next pixel. When you place a pixel, there is a cooldown for when you can place the next one. Over time, you can gain up to 6 \"stacked\" pixels to place at once."
+#~ msgstr "Это означает, что вы ждете следующего пикселя. Когда вы размещаете пиксель, есть время восстановления до того, когда вы можете разместить следующий. Со временем вы можете получить до 6 накопленных пикселей, которые можете сразу же разместить."
+
+#~ msgid "This is by design. It is better to place a pixel as soon as you get one. Pixel \"stacking\" is meant to give you a bump if you go AFK for a bit. It takes around 40 minutes to get a full 6/6 pixels, but it only takes around 3 minutes to place 6 pixels if you place them as soon as possible."
+#~ msgstr "Это сделано намеренно. Лучше разместить пиксель, как только вы его получите. Накопление пикселей должно дать вам толчок, если вы отошли на некоторое время и вернулись. Чтобы получить полные 6/6 пикселей, требуется около 40 минут, но для размещения 6 пикселей, по отдельности без накопления, требуется всего около 3 минут."
+
+#~ msgid "Contact us on <a href=\"https://pxls.space/discord\" target=\"_blank\">Discord</a> or send an appeal to our <a href=\"https://pxls.space/appeal\" target=\"_blank\">Google form</a> after reading the rules in the site's info panel."
+#~ msgstr "Напишите нам в <a href=\"https://pxls.space/discord\" target=\"_blank\">Discord</a> или отправьте обращение в нашeй <a href=\"https://pxls.space/appeal\" target=\"_blank\">Google форме</a> после прочтения правил в информационной панели сайта."
+
+#~ msgid "A template is an image link that is posted in the template textbox in the settings panel so you can place over it on the canvas. You may use a regular image link to your pixel art, but many people use 3rd party tools like <a href=\"https://charity.pxls.space\" target=\"_blank\">Charity</a> or <a href=\"https://discord.gg/5MVDCq53vC\" target=\"blank\">Clueless</a> to turn pixel art into a fancier link. If you need to make pixel art yourself, you can use <a href=\"https://www.piskelapp.com/p/create\" target=\"_blank\">Piskel</a> to create art to put into Charity or Clueless."
+#~ msgstr "Шаблон — это ссылка на изображение, которая размещена в текстовом поле шаблона на панели настроек, чтобы вы могли поместить ее на холст. Вы можете использовать обычную ссылку на изображение для своего пиксельного арта, но многие люди используют сторонние инструменты, такие как <a href=\"https://charity.pxls.space\" target=\"_blank\">Charity</a> или <a href=\"https://discord.gg/5MVDCq53vC\" target=\"blank\">Clueless</a> чтобы превратить пиксель-арт в более красивую ссылку. Если вам нужно сделать пиксель-арт самостоятельно, вы можете использовать <a href=\"https://www.piskelapp.com/p/create\" target=\"_blank\">Piskel</a> для создания артов и для размещения их в Charity или Clueless."
+
+#~ msgid "Does the canvas reset? When?"
+#~ msgstr "Меняется ли полотно? Когда?"
+
+#~ msgid "Yes. The canvas resets when it is completely full. A reset date is not usually decided until the canvas is full, but the average canvas life-span is around 1 month. Updates are posted in our <a href=\"https://pxls.space/discord\" target=\"_blank\">Discord server</a> when a reset date is set."
+#~ msgstr "Да. Полотно меняется, когда оно полностью заполнено. Дата сброса полотна обычно не определяется, пока полотно не будет заполнено, но средний срок жизни полотна составляет около 1 месяца. Обновления размещены в нашем <a href=\"https://pxls.space/discord\" target=\"_blank\">Дискорде</a> когда установлена дата сброса."
+
+#~ msgid "Where can I see the past canvases?"
+#~ msgstr "Где я могу увидеть прошлые полотна?"
+
+#~ msgid "The past canvases are featured on our <a href=\"https://pxls.space/discord\" target=\"_blank\">Discord server</a>, or the 3rd party website <a href=\"https://pxlsfiddle.com\" target=\"_blank\">PxlsFiddle</a>, which records timelapses and a lot of useful information on each canvas."
+#~ msgstr "Прошлые полотна представлены на нашем сайте, <a href=\"https://pxls.space/discord\" target=\"_blank\">Дискорде</a>, или на стороннем веб-сайте <a href=\"https://pxlsfiddle.com\" target=\"_blank\">PxlsFiddle</a>, который записывает таймлапсы и много полезной информации по каждому полотну."
+
+#~ msgid "How do I see who placed a pixel?"
+#~ msgstr "Как мне посмотреть, кто поставил пиксель?"
+
+#~ msgid "Shift-click (or tap and hold on mobile) on a pixel, and click the Report button."
+#~ msgstr "Удерживая нажатой клавишу Shift щелкните ЛКМ на пиксель (или нажмите и удерживайте ЛКМ/на экране телефона), нажмите кнопку «Жалоба» (Report). В чате вы можете просто нажать на ник нарушителя и нажать кнопку «Жалоба» (Report)."
+
+#~ msgid "How do I change the color of my name in the chat?"
+#~ msgstr "Как поменять цвет моего ника в чате?"
+
+#~ msgid "There is a \"Username Color\" option near the bottom of the settings panel."
+#~ msgstr "В нижней части панели настроек есть опция «Цвет имени пользователя»."
+
+#~ msgid "The virginmap shows which pixels have not yet been placed on (or “virgin” pixels)."
+#~ msgstr "Virginmap показывает, какие пиксели еще не были размещены на полотне (или “девственные” пиксели)."
+
+#~ msgid "Check the info panel (the icon on the top left) for more details and links, or join our <a href=\"https://pxls.space/discord\" target=\"_blank\">Discord server</a>, where a staff member will gladly respond."
+#~ msgstr "Просмотрите информационную панель (значок в левом верхнем углу) для получения более подробной информации и ссылок, или присоединитесь к нашему <a href=\"https://pxls.space/discord\" target=\"_blank\">Дискорду</a>, где члены команды модерации с радостью ответят."
+
+#~ msgid "Welcome to pxls.space! Pxls is a multiplayer online collaborative canvas based on Reddit's <a href=\"https://www.reddit.com/r/place\" target=\"_blank\">r/place</a> event from 2017 that allows you to create anything you can imagine, one pixel at a time. Join hundreds of other players in the Pxls community and create amazing works of art together as a team, or solo."
+#~ msgstr "Добро пожаловать на pxls.space! Pxls - это многопользовательский онлайн-холст для совместной работы, который позволяет вам создавать все, что вы можете вообразить, по одному пикселю за раз. Присоединяйтесь к сотням других игроков в сообществе Pxls и создавайте потрясающие произведения искусства вместе в команде, или в одиночку."
+
+#~ msgid "The best place to reach staff and fellow community is in the discord!"
+#~ msgstr "Лучшее место для общения с сотрудниками модерации и сообществом - это наш Дискорд!"
+
+#~ msgid "Check out our social media pages, and please take the time to read the rules below. Have fun creating (or changing) art!"
+#~ msgstr "Посетите наши страницы в социальных сетях и пожалуйста, прочитайте приведенные ниже правила. Развлекайтесь, создавая (или меняя) рисунки!"
+
+#~ msgid "No hateful imagery or derogatory speech. This includes but is not limited to words such as <i>f****t</i>, <i>n****r</i>, etc; as well as the Swastika, Hammer and Sickle, and any symbols of terrorism."
+#~ msgstr "Никаких символов ненависти или уничижительных речей. Это включает, но не ограничивается такими словами, как <i>f****t (пидор)</i>, <i>n****r (нигер)</i>, и т.д.; так же как свастика и любые другие символы терроризма."
+
+#~ msgid "No NSFW or NSFL content."
+#~ msgstr "Никакого NSFW или NSFL контента."
+
+#~ msgid "No nudity or otherwise sexually explicit content"
+#~ msgstr "Запрещено изображение обнаженной натуры или иной контент откровенно сексуального характера."
+
+#~ msgid "No female-presenting nipples/bare breasts, genitalia, sexual fluids"
+#~ msgstr "Никаких женских сосков/обнаженной груди, гениталий, половых жидкостей."
+
+#~ msgid "No sexual imagery/erotica"
+#~ msgstr "Никаких сексуальных образов/эротики"
+
+#~ msgid "No excessive blood or otherwise obscene/shocking content"
+#~ msgstr "Запрещены изображения с чрезмерным количеством крови или иного непристойного/шокирующего содержания"
+
+#~ msgid "No more than <b>one</b> account per user, no exceptions. Multiple account users will be banned from creating art on the canvas."
+#~ msgstr "Не более чем <b>один</b> аккаунт на пользователя, без исключений. Пользователям, владеющими несколькими аккаунтами будет запрещено создавать изображения на холсте."
+
+#~ msgid "No auto-placement tools of any kind, you must place the pixels manually."
+#~ msgstr "Никаких инструментов автоматического размещения, вы должны ставить пиксели вручную."
+
+#~ msgid "Staff have final say in any rule disputes"
+#~ msgstr "Персонал модерации сайта имеет последнее слово в любых спорах о правилах"
+
+#~ msgid "If you feel a moderator has acted inappropriately, please report it to an administrator."
+#~ msgstr "Если вы считаете, что модератор действовал ненадлежащим образом, сообщите об этом администратору."
+
+#~ msgid "Keep chat civil. No harassment or homophobic/transphobic/disablist language."
+#~ msgstr "Поддерживайте вежливость в чате. Запрещены оскорбления или гомофобные/трансфобные высказывания/оскорбления инвалидов."
+
+#~ msgid "No hate speech. This includes emoji/symbols/ASCII art."
+#~ msgstr "Никаких ненавистнических высказываний. Сюда же входят эмодзи/символы/изображения ASCII."
+
+#~ msgid "Normal swearing/etc is allowed"
+#~ msgstr "Резрешены обычные ругательства и т.п."
+
+#~ msgid "No spamming"
+#~ msgstr "Никакого спама"
+
+#~ msgid "This includes excessive ASCII art/emojis/symbols/whitespace"
+#~ msgstr "Это включает в себя чрезмерное количество изображений ASCII/смайлов/символов/пробелов."
+
+#~ msgid "No \"copy pasta\"s"
+#~ msgstr "Никаких копирований (паст) - например скопированные анекдоты, тексты песен и т.д."
+
+#~ msgid "No links to sites that actively break the canvas or chat rules (e.g. porn sites)"
+#~ msgstr "Запрещены ссылки на сайты, которые активно нарушают правила полотна или чата (например, порносайты)"
+
+#~ msgid "No symbology which break the canvas or chat rules (e.g. NSFW ASCII art)"
+#~ msgstr "Никаких символов, нарушающих правила полотна или чата (например, NSFW ASCII изображения)"
+
+#~ msgid "No personal information"
+#~ msgstr "Запрещена личная информация и ее распространение"
+
+#~ msgid "Discord (main hub)"
+#~ msgstr "Discord (основной)"
+
+#~ msgid "Twitter"
+#~ msgstr "Twitter"
+
+#~ msgid "Generator, progress checker, and monitor for Pxls templates"
+#~ msgstr "Генератор, средство проверки прогресса и мониторинг для шаблонов Pxls"
+
+#~ msgid "Charity (templates, monitors, etc.)"
+#~ msgstr "Charity (шаблоны, мониторинг и т.д.)"
+
+#~ msgid "Archives"
+#~ msgstr "Aрхивы"
+
+#~ msgid "PxlsFiddle (archives)"
+#~ msgstr "PxlsFiddle (архивы)"
+
+#~ msgid "Donate"
+#~ msgstr "Пожертвования"
+
+#~ msgid "Donations are not accepted at this time, but this panel will be updated when they're open again!"
+#~ msgstr "Пожертвования в настоящее время не принимаются, но эта панель будет обновлена, когда они снова откроются!"
 
 #~ msgid "Subreddit"
 #~ msgstr "Subreddit"
