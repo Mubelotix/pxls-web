@@ -1295,7 +1295,7 @@ msgstr "Les étudiants participent en tant que membres des factions de leur dép
 
 #: /views/partials/info.handlebars
 msgid "The best place to reach me, Simon the admin, and the community is <a href=\"https://discord.com/invite/TpdbUyfcbJ\">the discord</a>, but you can also send me an email at <a href=\"mailto:simon.girard@insa-rouen.fr\">simon.girard@insa-rouen.fr</a>."
-msgstr "Le meilleur endroit pour me contacter, Simon l'administrateur, et la communauté est <a href=\"https://discord.com/invite/TpdbUyfcbJ\">le discord</a>, mais vous pouvez aussi m'envoyer un email à <a href=\"mailto:simon.girard@insa-rouen.fr</a>."
+msgstr "Le meilleur endroit pour me contacter, Simon l'administrateur, et la communauté est <a href=\"https://discord.com/invite/TpdbUyfcbJ\">le discord</a>, mais vous pouvez aussi m'envoyer un email à <a href=\"mailto:simon.girard@insa-rouen.fr\">simon.girard@insa-rouen.fr</a>."
 
 #: /views/partials/info.handlebars
 msgid "Please take the time to read the rules below, and have fun creating (or changing) art!"
