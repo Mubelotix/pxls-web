@@ -56,12 +56,12 @@ const loadedPOFiles = new Map();
 exports.getLoadedPOFiles = () => ({ loadedPOFiles });
 
 /**
- * Gets the language data for the request. If the language code is not found, it will fall back to English.
+ * Gets the language data for the request. If the language code is not found, it will fall back to French.
  * @param req The request object.
  * @returns {Promise<{poFile: PO, langCode: string}>}
  */
 async function getLanguageData(req) {
-  let langCode = req.cookies['pxls-accept-language-override'] || 'en';
+  let langCode = req.cookies['pxls-accept-language-override'] || 'fr';
   const poDirFiles = fs.readdirSync(path.join(__dirname, 'po'));
   if (!poDirFiles.includes(`Localization${langCode === 'en' ? '' : '_' + langCode}.po`)) {
     langCode = 'en';
