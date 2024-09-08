@@ -1255,7 +1255,7 @@ msgstr "Comment est-ce que je signale quelqu'un ?"
 
 #: /views/partials/faq.handlebars
 msgid "Do not use the report button, admins won't see those. Just contact us on <a href=\"https://discord.com/invite/TpdbUyfcbJ\" target=\"_blank\">Discord</a> or send me a report at <a href=\"mailto:simon.girard@insa-rouen.fr\" target=\"_blank\">simon.girard@insa-rouen.fr</a> after reading the rules."
-msgstr "N'utilisez pas le bouton de signalement, les administrateurs ne les verront pas. Contactez-nous sur <a href=\"https://discord.com/invite/TpdbUyfcbJ\" target=\"_blank\">Discord</a> ou envoyez moi un rapport à <a href=\"mailto:simon.girard@insa-rouen.fr</a> après avoir lu les règles."
+msgstr "N'utilisez pas le bouton de signalement, les administrateurs ne les verront pas. Contactez-nous sur <a href=\"https://discord.com/invite/TpdbUyfcbJ\" target=\"_blank\">Discord</a> ou envoyez moi un rapport à <a href=\"mailto:simon.girard@insa-rouen.fr\">simon.girard@insa-rouen.fr</a> après avoir lu les règles."
 
 #: /views/partials/faq.handlebars
 msgid "What is a \"virginmap\"?"
