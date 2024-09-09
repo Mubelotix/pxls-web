@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Pxls\n"
-"POT-Creation-Date: 2024-09-07T14:28:51.554Z\n"
+"POT-Creation-Date: 2024-09-09T08:54:56.531Z\n"
 "PO-Revision-Date: 2024-01-20 11:30+0000\n"
 "Last-Translator: Weblate Admin <thiscamefrom@pxls.space>\n"
 "Language-Team: German <https://weblate.pxls.space/projects/pxls-space/pxls-web/de/>\n"
@@ -1224,7 +1224,7 @@ msgid "How do I make a template?"
 msgstr ""
 
 #: /views/partials/faq.handlebars
-msgid "A template is an image link that is posted in the template textbox in the settings panel so you can place over it on the canvas. You may use a regular image link to your pixel art, but many people use 3rd party tools. If you need to make pixel art yourself, you can use <a href=\"https://www.piskelapp.com/p/create\" target=\"_blank\">Piskel</a>."
+msgid "A template is an image link that is posted in the template textbox in the settings panel so you can place over it on the canvas. You may use a regular image link to your pixel art, but many people use 3rd party tools. If you need to make pixel art yourself, you can use <a href=\"https://www.piskelapp.com/p/create\" target=\"_blank\">Piskel</a>. In order to share your template, it's best to host it on a web server. The easiest way is to just put it in a discord or <a href=\"https://mastodon.insa.lol\">Mastodon</a> message and copy the link to the image."
 msgstr ""
 
 #: /views/partials/faq.handlebars

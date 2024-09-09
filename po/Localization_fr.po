@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Pxls\n"
-"POT-Creation-Date: 2024-09-07T14:28:51.554Z\n"
+"POT-Creation-Date: 2024-09-09T08:54:56.531Z\n"
 "Language: fr\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
@@ -1218,8 +1218,8 @@ msgid "How do I make a template?"
 msgstr "Comment créer un modèle ?"
 
 #: /views/partials/faq.handlebars
-msgid "A template is an image link that is posted in the template textbox in the settings panel so you can place over it on the canvas. You may use a regular image link to your pixel art, but many people use 3rd party tools. If you need to make pixel art yourself, you can use <a href=\"https://www.piskelapp.com/p/create\" target=\"_blank\">Piskel</a>."
-msgstr "Un modèle est un lien d'image que vous pouvez poster dans la boîte de texte des modèles dans le panneau de paramètres pour pouvoir placer des pixels par dessus sur le canvas. Vous pouvez utiliser un lien d'image classique pour votre pixel art, mais beaucoup de personnes utilisent des outils tiers. Si vous avez besoin de créer du pixel art vous-même, vous pouvez utiliser <a href=\"https://www.piskelapp.com/p/create\" target=\"_blank\">Piskel</a>."
+msgid "A template is an image link that is posted in the template textbox in the settings panel so you can place over it on the canvas. You may use a regular image link to your pixel art, but many people use 3rd party tools. If you need to make pixel art yourself, you can use <a href=\"https://www.piskelapp.com/p/create\" target=\"_blank\">Piskel</a>. In order to share your template, it's best to host it on a web server. The easiest way is to just put it in a discord or <a href=\"https://mastodon.insa.lol\">Mastodon</a> message and copy the link to the image."
+msgstr "Un modèle est un lien d'image configurable dans la section modèle du panneau de paramètres, qui vous guide pour placer des pixels sur le canvas. Vous pouvez utiliser un lien d'image classique pour votre pixel art, mais beaucoup de personnes utilisent des outils tiers. Si vous avez besoin de créer du pixel art vous-même, vous pouvez utiliser <a href=\"https://www.piskelapp.com/p/create\" target=\"_blank\">Piskel</a>. Pour partager votre image modèle, il est nécessaire de l'héberger sur un serveur web. La manière la plus simple est de la mettre dans un message discord ou <a href=\"https://mastodon.insa.lol\">Mastodon</a> et de copier le lien de l'image."
 
 #: /views/partials/faq.handlebars
 msgid "How do I move a template?"
@@ -2459,6 +2459,9 @@ msgstr ""
 #: /public/pxls.js
 msgid "Alert"
 msgstr "Alerte"
+
+#~ msgid "A template is an image link that is posted in the template textbox in the settings panel so you can place over it on the canvas. You may use a regular image link to your pixel art, but many people use 3rd party tools. If you need to make pixel art yourself, you can use <a href=\"https://www.piskelapp.com/p/create\" target=\"_blank\">Piskel</a>."
+#~ msgstr "Un modèle est un lien d'image que vous pouvez poster dans la boîte de texte des modèles dans le panneau de paramètres pour pouvoir placer des pixels par dessus sur le canvas. Vous pouvez utiliser un lien d'image classique pour votre pixel art, mais beaucoup de personnes utilisent des outils tiers. Si vous avez besoin de créer du pixel art vous-même, vous pouvez utiliser <a href=\"https://www.piskelapp.com/p/create\" target=\"_blank\">Piskel</a>."
 
 #~ msgid "The time it takes to get a pixel is dynamic, and changes based on how many people are online. The cooldown time is longer when more users are online."
 #~ msgstr "Le temps que ça prend pour charger un pixel change en fonction du nombre de personnes en ligne. Ce temps sera plus long si plus de monde est en ligne."
