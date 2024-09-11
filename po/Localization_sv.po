@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Pxls\n"
-"POT-Creation-Date: 2024-09-09T08:54:56.531Z\n"
+"POT-Creation-Date: 2024-09-11T16:42:41.631Z\n"
 "PO-Revision-Date: 2023-12-15 08:20+0000\n"
 "Last-Translator: Weblate Admin <thiscamefrom@pxls.space>\n"
 "Language-Team: Swedish <https://weblate.pxls.space/projects/pxls-space/pxls-web/sv/>\n"
@@ -1352,7 +1352,7 @@ msgid "Usage of templates is autorized and encouraged."
 msgstr ""
 
 #: /views/partials/info.handlebars
-msgid "Departments with less students are expected to cover less territory. To balance the game, we don't directly rank departments by their territory but apply a coefficient to ensure fair chances for everyone. Coefficients are as follows (over than 1 is favorable):"
+msgid "Departments with less students are expected to cover less territory. To balance the game, we don't directly rank departments by their territory but apply a coefficient to ensure fair chances for everyone. Coefficients are the same as <a href=\"https://docs.google.com/spreadsheets/d/1Rrd979ERSQUtttDS2cIrcZ8AkoIHDvGA_bwmxZ5em-w/edit?gid=0#gid=0\">those chosen by the BDE for the challenges</a>."
 msgstr ""
 
 #: /views/partials/info.handlebars
