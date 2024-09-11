@@ -1202,8 +1202,8 @@ msgid "Why does it take so long to \"stack\" pixels?"
 msgstr "Pourquoi est-ce que ça prend autant de temps pour \"stacker\" des pixels ?"
 
 #: /views/partials/faq.handlebars
-msgid "This is by design. It is better to place a pixel as soon as you get one. Pixel \"stacking\" is meant to give you a bump if you go AFK for a bit. Pixel stack 5 times slower than the normal cooldown."
-msgstr "C'est voulu. Il est mieux de placer un pixel dès que vous en avez un. Le \"stacking\" de pixels est fait pour vous donner un coup de pouce si vous êtes AFK un moment. Les pixels se stackent 5 fois plus lentement que le temps normal."
+msgid "This is by design. It is better to place a pixel as soon as you get one. Pixel \"stacking\" is meant to give you a bump if you go AFK for a bit. Pixel stack 3 times slower than the normal cooldown."
+msgstr "C'est voulu. Il est mieux de placer un pixel dès que vous en avez un. Le \"stacking\" de pixels est fait pour vous donner un coup de pouce si vous êtes AFK un moment. Les pixels se stackent 3 fois plus lentement que le temps normal."
 
 #: /views/partials/faq.handlebars
 msgid "How do I appeal a ban?"

@@ -1209,7 +1209,7 @@ msgid "Why does it take so long to \"stack\" pixels?"
 msgstr "mi kama jo e leko wan la, mi awen kepeken tenpo lili. taso, mi kama jo e leko mute la, mi awen kepeken tenpo mute. ni li tan seme?"
 
 #: /views/partials/faq.handlebars
-msgid "This is by design. It is better to place a pixel as soon as you get one. Pixel \"stacking\" is meant to give you a bump if you go AFK for a bit. Pixel stack 5 times slower than the normal cooldown."
+msgid "This is by design. It is better to place a pixel as soon as you get one. Pixel \"stacking\" is meant to give you a bump if you go AFK for a bit. Pixel stack 3 times slower than the normal cooldown."
 msgstr ""
 
 #: /views/partials/faq.handlebars
