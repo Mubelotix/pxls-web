@@ -1227,7 +1227,7 @@ msgstr "Comment est-ce que je déplace mon modèle ?"
 
 #: /views/partials/faq.handlebars
 msgid "Hold <kbd>CTRL</kbd> (or <kbd>OPTION</kbd> on macOS) and click and drag to move it around. On mobile, you can tap and hold where you want to move the template and click \"Move Template Here\" in the pop-up."
-msgstr "Maintiens <kbd>CTRL</kbd> (ou <kbd>OPTION</kbd> sur macOS) et déplace le en laissant appuyer le clique gauche. Sur téléphone, tu peux taper et laisser appuyer ou tu veux déplacer ton modèle et cliquer \"Déplacer le modèle ici\" dans le pop-up"
+msgstr "Maintiens <kbd>CTRL</kbd> (ou <kbd>OPTION</kbd> sur macOS) et déplace le en laissant appuyer le clique gauche. Sur téléphone, tu peux taper et laisser appuyer où tu veux déplacer ton modèle et cliquer \"Déplacer le modèle ici\" dans le pop-up"
 
 #: /views/partials/faq.handlebars
 msgid "When does the event end?"
@@ -1247,7 +1247,7 @@ msgstr "Nous choisirons une quantité qui nous semble suffisamment grande une fo
 
 #: /views/partials/faq.handlebars
 msgid "By shift-clicking (or tap and hold on mobile) a pixel, you can see who placed a pixel, how many pixels they have placed, and when they placed it."
-msgstr "En shift-cliquant (ou en maintenant son doigt sur mobile) sur un pixel, vous pouvez voir qui l'a placé, le nombre de pixels que l'individu a placé, et le moment ou ce pixel a été placé."
+msgstr "En shift-cliquant (ou en maintenant son doigt sur mobile) sur un pixel, vous pouvez voir qui l'a placé, le nombre de pixels que l'individu a placé, et le moment où ce pixel a été placé."
 
 #: /views/partials/faq.handlebars
 msgid "How do I report someone?"
