@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Pxls\n"
-"POT-Creation-Date: 2024-09-14T09:27:16.246Z\n"
+"POT-Creation-Date: 2024-09-14T09:32:35.778Z\n"
 "Language: fr\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
@@ -1294,8 +1294,8 @@ msgid "Welcome!"
 msgstr "Bienvenue !"
 
 #: /views/partials/info.handlebars
-msgid "Welcome to INSA's pixel war! This is a temporary event part of the 2024 student integration at INSA Rouen. This website allows you to create anything you can imagine, one pixel at a time. The canvas is open from Monday to Friday between 7am and 10pm."
-msgstr "Bienvenue à la pixel war de l'INSA ! C'est un événement temporaire dans le cadre de l'intégration des étudiants 3A à l'INSA Rouen. Ce site vous permet de créer tout ce que vous pouvez imaginer, un pixel à la fois. Le canvas est ouvert du lundi au vendredi entre 7h et 22h."
+msgid "Welcome to INSA's pixel war! This is a temporary event part of the third year student integration at INSA Rouen by <a href=\"https://www.instagram.com/moyen_insage\">@moyen_insage</a>. This website allows you to create anything you can imagine, one pixel at a time. The canvas is open from Monday to Friday, but closed at night from 1h30 to 6h30."
+msgstr "Bienvenue à la Pixel War de l'INSA ! C'est un événement temporaire dans le cadre de l'intégration des étudiants de troisième année à l'INSA Rouen par <a href=\"https://www.instagram.com/moyen_insage\">@moyen_insage</a>. Ce site vous permet de créer tout ce que vous pouvez imaginer, pixel par pixel. Le canvas est ouvert du lundi au vendredi, mais fermé la nuit de 1h30 à 6h30."
 
 #: /views/partials/info.handlebars
 msgid "Students participate as team members of their departments' factions. Departments will be ranked at the end of the event and will be rewarded for their efforts. Every participating department will receive points based on <a href=\"/stats\">their ranking</a>. The amount of points will be announced in a few days."
@@ -2463,6 +2463,9 @@ msgstr ""
 #: /public/pxls.js
 msgid "Alert"
 msgstr "Alerte"
+
+#~ msgid "Welcome to INSA's pixel war! This is a temporary event part of the 2024 student integration at INSA Rouen. This website allows you to create anything you can imagine, one pixel at a time. The canvas is open from Monday to Friday between 7am and 10pm."
+#~ msgstr "Bienvenue à la pixel war de l'INSA ! C'est un événement temporaire dans le cadre de l'intégration des étudiants 3A à l'INSA Rouen. Ce site vous permet de créer tout ce que vous pouvez imaginer, un pixel à la fois. Le canvas est ouvert du lundi au vendredi entre 7h et 22h."
 
 #~ msgid "The last event was ruined by cheaters over the last 6 hours. Such behavior will not be tolerated and will be severely punished. At the end of the event, we will deeply scan the logs and will investigate any suspicious activity. Cheaters will see their pixels removed and have their name publicly displayed for everyone to see. If you attempt to cheat, I might not find out right away, but expect me when I review the logs."
 #~ msgstr "Le dernier événement a été ruiné par des tricheurs durant les 6 dernières heures. Ce genre de comportement ne sera pas toléré et sera sévèrement puni. À la fin de l'événement, nous analyserons les logs au peigne fin et enquêterons sur toute activité suspecte. Les tricheurs verront leurs pixels retirés et leur nom affiché publiquement. Si vous tentez de tricher, je pourrais ne pas le découvrir tout de suite, mais attendez-vous à m'entendre quand je passerai en revue les logs."

@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Pxls\n"
-"POT-Creation-Date: 2024-09-14T09:27:16.246Z\n"
+"POT-Creation-Date: 2024-09-14T09:32:35.778Z\n"
 "Language: \n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
@@ -1327,7 +1327,7 @@ msgid "Welcome!"
 msgstr ""
 
 #: /views/partials/info.handlebars
-msgid "Welcome to INSA's pixel war! This is a temporary event part of the 2024 student integration at INSA Rouen. This website allows you to create anything you can imagine, one pixel at a time. The canvas is open from Monday to Friday between 7am and 10pm."
+msgid "Welcome to INSA's pixel war! This is a temporary event part of the third year student integration at INSA Rouen by <a href=\"https://www.instagram.com/moyen_insage\">@moyen_insage</a>. This website allows you to create anything you can imagine, one pixel at a time. The canvas is open from Monday to Friday, but closed at night from 1h30 to 6h30."
 msgstr ""
 
 #: /views/partials/info.handlebars
