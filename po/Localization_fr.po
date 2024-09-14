@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Pxls\n"
-"POT-Creation-Date: 2024-09-14T09:32:35.778Z\n"
+"POT-Creation-Date: 2024-09-14T19:51:33.000Z\n"
 "Language: fr\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
@@ -1210,8 +1210,8 @@ msgid "How do I appeal a ban?"
 msgstr "Comment puis-je faire appel à un bannissement ?"
 
 #: /views/partials/faq.handlebars
-msgid "Contact us on <a href=\"https://discord.com/invite/TpdbUyfcbJ\" target=\"_blank\">Discord</a> or send me an appeal at <a href=\"mailto:simon.girard@insa-rouen.fr\" target=\"_blank\">simon.girard@insa-rouen.fr</a> after reading the rules in the site's info panel."
-msgstr "Contactez-nous sur <a href=\"https://discord.com/invite/TpdbUyfcbJ\" target=\"_blank\">Discord</a> ou envoyez moi un appel à <a href=\"mailto:simon.girard@insa-rouen.fr\" target=\"_blank\">simon.girard@insa-rouen.fr</a> après avoir lu les règles dans le panneau d'information du site."
+msgid "Contact the Respos Challenges on Instagram (@moyen_insage_defis) or Messenger after reading the rules in the site's info panel."
+msgstr ""
 
 #: /views/partials/faq.handlebars
 msgid "How do I make a template?"
@@ -1234,8 +1234,8 @@ msgid "When does the event end?"
 msgstr "Quand est-ce que l'événement se termine ?"
 
 #: /views/partials/faq.handlebars
-msgid "The even will last until Friday evening. The precise time will not be announced to prevent last-second vandalism."
-msgstr "L'événement durera jusqu'à vendredi soir. L'heure précise ne sera pas annoncée pour éviter le vandalisme de dernière minute."
+msgid "The event will last until Friday evening. The precise time will not be announced to prevent last-second attacks."
+msgstr ""
 
 #: /views/partials/faq.handlebars
 msgid "How many integration points will departments receive?"
@@ -1254,8 +1254,8 @@ msgid "How do I report someone?"
 msgstr "Comment est-ce que je signale quelqu'un ?"
 
 #: /views/partials/faq.handlebars
-msgid "Do not use the report button, admins won't see those. Just contact us on <a href=\"https://discord.com/invite/TpdbUyfcbJ\" target=\"_blank\">Discord</a> or send me a report at <a href=\"mailto:simon.girard@insa-rouen.fr\" target=\"_blank\">simon.girard@insa-rouen.fr</a> after reading the rules."
-msgstr "N'utilisez pas le bouton de signalement, les administrateurs ne les verront pas. Contactez-nous sur <a href=\"https://discord.com/invite/TpdbUyfcbJ\" target=\"_blank\">Discord</a> ou envoyez moi un rapport à <a href=\"mailto:simon.girard@insa-rouen.fr\">simon.girard@insa-rouen.fr</a> après avoir lu les règles."
+msgid "Do not use the report button, admins won't see those. Just contact the leprechauns on Instagram or Messenger after reading the rules."
+msgstr ""
 
 #: /views/partials/faq.handlebars
 msgid "What is a \"virginmap\"?"
@@ -1270,8 +1270,8 @@ msgid "How do I report bugs?"
 msgstr "Comment puis-je signaler un bug ?"
 
 #: /views/partials/faq.handlebars
-msgid "Submit bugs to the #dev-and-bugs channel in the <a href=\"https://pxls.space/discord\" target=\"_blank\">Discord server</a>. If you have found an exploit, please message one of the staff members privately (through DMs)."
-msgstr "Publie ton problème dans le salon #devs-and-bugs dans notre <a href=\"https://pxls.space/discord\" target=\"_blank\">serveur Discord</a>. Si tu as trouvé une méthode pour exploiter le site, merci de contacter un membre du staff (en message privé)."
+msgid "Submit bugs to the orignal devs in the #dev-and-bugs channel in their <a href=\"https://pxls.space/discord\" target=\"_blank\">Discord server</a>. If you have found an exploit, please message one of their staff members privately (through DMs)."
+msgstr ""
 
 #: /views/partials/faq.handlebars
 msgid "How do I get more info or contact staff?"
@@ -1302,8 +1302,8 @@ msgid "Students participate as team members of their departments' factions. Depa
 msgstr "Les étudiants participent en tant que membres des factions de leur département. Les départements seront classés à la fin de l'événement et seront récompensés pour leurs efforts. Chaque département participant recevra des points basés sur <a href=\"/stats\">leur classement</a>. Le nombre de points sera annoncé dans quelques jours."
 
 #: /views/partials/info.handlebars
-msgid "The best place to reach me, Simon the admin, and the community is <a href=\"https://discord.com/invite/TpdbUyfcbJ\">the discord</a>, but you can also send me an email at <a href=\"mailto:simon.girard@insa-rouen.fr\">simon.girard@insa-rouen.fr</a>."
-msgstr "Le meilleur endroit pour me contacter, Simon l'administrateur, et la communauté est <a href=\"https://discord.com/invite/TpdbUyfcbJ\">le discord</a>, mais vous pouvez aussi m'envoyer un email à <a href=\"mailto:simon.girard@insa-rouen.fr\">simon.girard@insa-rouen.fr</a>."
+msgid "If you have any question or requirements you can reach the Respos Challenges of your Department, or on instagram <a href=\"https://www.instagram.com/moyen_insage_defis\">@moyen_insage_defis</a>."
+msgstr ""
 
 #: /views/partials/info.handlebars
 msgid "Please take the time to read the rules below, and have fun creating (or changing) art!"
@@ -1350,8 +1350,8 @@ msgid "Usage of templates is autorized and encouraged."
 msgstr "L'utilisation de modèles est autorisée et encouragée."
 
 #: /views/partials/info.handlebars
-msgid "Departments with less students are expected to cover less territory. To balance the game, we don't directly rank departments by their territory but apply a coefficient to ensure fair chances for everyone. Coefficients are the same as <a href=\"https://docs.google.com/spreadsheets/d/1Rrd979ERSQUtttDS2cIrcZ8AkoIHDvGA_bwmxZ5em-w/edit?gid=0#gid=0\">those chosen by the BDE for the challenges</a>."
-msgstr "Nous nous attendons à ce que les départements avec moins d'étudiants couvrent moins de territoire. Pour équilibrer le jeu, nous ne classons pas directement les départements par leur territoire mais appliquons un coefficient pour assurer des chances équitables pour tous. Les coefficients sont les mêmes que <a href=\"https://docs.google.com/spreadsheets/d/1Rrd979ERSQUtttDS2cIrcZ8AkoIHDvGA_bwmxZ5em-w/edit?gid=0#gid=0\">ceux choisis par le BDE pour les challenges</a>."
+msgid "Departments with less students are expected to cover less territory. To balance the game, we don't directly rank departments by their territory but apply a coefficient to ensure fair chances for everyone. Coefficients are the same as <a href=\"https://docs.google.com/spreadsheets/d/1Rrd979ERSQUtttDS2cIrcZ8AkoIHDvGA_bwmxZ5em-w/edit?gid=0#gid=0\">those chosen by the leprechauns for the challenges</a>."
+msgstr ""
 
 #: /views/partials/info.handlebars
 msgid "Please keep in mind that those numbers may slightly vary as not all students are fully registering in INSA systems yet. Upon request, we will manually approve those who didn't fully pay their tuition fees."
@@ -1384,6 +1384,14 @@ msgstr "Pas de doxing"
 #: /views/partials/info.handlebars
 msgid "Links"
 msgstr "Liens"
+
+#: /views/partials/info.handlebars
+msgid "Insta @moyen_insage"
+msgstr ""
+
+#: /views/partials/info.handlebars
+msgid "Insta @moyen_insage_defis"
+msgstr ""
 
 #: /views/partials/info.handlebars /public/include/lookup.js
 msgid "Discord"
@@ -2463,6 +2471,24 @@ msgstr ""
 #: /public/pxls.js
 msgid "Alert"
 msgstr "Alerte"
+
+#~ msgid "Contact us on <a href=\"https://discord.com/invite/TpdbUyfcbJ\" target=\"_blank\">Discord</a> or send me an appeal at <a href=\"mailto:simon.girard@insa-rouen.fr\" target=\"_blank\">simon.girard@insa-rouen.fr</a> after reading the rules in the site's info panel."
+#~ msgstr "Contactez-nous sur <a href=\"https://discord.com/invite/TpdbUyfcbJ\" target=\"_blank\">Discord</a> ou envoyez moi un appel à <a href=\"mailto:simon.girard@insa-rouen.fr\" target=\"_blank\">simon.girard@insa-rouen.fr</a> après avoir lu les règles dans le panneau d'information du site."
+
+#~ msgid "The even will last until Friday evening. The precise time will not be announced to prevent last-second vandalism."
+#~ msgstr "L'événement durera jusqu'à vendredi soir. L'heure précise ne sera pas annoncée pour éviter le vandalisme de dernière minute."
+
+#~ msgid "Do not use the report button, admins won't see those. Just contact us on <a href=\"https://discord.com/invite/TpdbUyfcbJ\" target=\"_blank\">Discord</a> or send me a report at <a href=\"mailto:simon.girard@insa-rouen.fr\" target=\"_blank\">simon.girard@insa-rouen.fr</a> after reading the rules."
+#~ msgstr "N'utilisez pas le bouton de signalement, les administrateurs ne les verront pas. Contactez-nous sur <a href=\"https://discord.com/invite/TpdbUyfcbJ\" target=\"_blank\">Discord</a> ou envoyez moi un rapport à <a href=\"mailto:simon.girard@insa-rouen.fr\">simon.girard@insa-rouen.fr</a> après avoir lu les règles."
+
+#~ msgid "Submit bugs to the #dev-and-bugs channel in the <a href=\"https://pxls.space/discord\" target=\"_blank\">Discord server</a>. If you have found an exploit, please message one of the staff members privately (through DMs)."
+#~ msgstr "Publie ton problème dans le salon #devs-and-bugs dans notre <a href=\"https://pxls.space/discord\" target=\"_blank\">serveur Discord</a>. Si tu as trouvé une méthode pour exploiter le site, merci de contacter un membre du staff (en message privé)."
+
+#~ msgid "The best place to reach me, Simon the admin, and the community is <a href=\"https://discord.com/invite/TpdbUyfcbJ\">the discord</a>, but you can also send me an email at <a href=\"mailto:simon.girard@insa-rouen.fr\">simon.girard@insa-rouen.fr</a>."
+#~ msgstr "Le meilleur endroit pour me contacter, Simon l'administrateur, et la communauté est <a href=\"https://discord.com/invite/TpdbUyfcbJ\">le discord</a>, mais vous pouvez aussi m'envoyer un email à <a href=\"mailto:simon.girard@insa-rouen.fr\">simon.girard@insa-rouen.fr</a>."
+
+#~ msgid "Departments with less students are expected to cover less territory. To balance the game, we don't directly rank departments by their territory but apply a coefficient to ensure fair chances for everyone. Coefficients are the same as <a href=\"https://docs.google.com/spreadsheets/d/1Rrd979ERSQUtttDS2cIrcZ8AkoIHDvGA_bwmxZ5em-w/edit?gid=0#gid=0\">those chosen by the BDE for the challenges</a>."
+#~ msgstr "Nous nous attendons à ce que les départements avec moins d'étudiants couvrent moins de territoire. Pour équilibrer le jeu, nous ne classons pas directement les départements par leur territoire mais appliquons un coefficient pour assurer des chances équitables pour tous. Les coefficients sont les mêmes que <a href=\"https://docs.google.com/spreadsheets/d/1Rrd979ERSQUtttDS2cIrcZ8AkoIHDvGA_bwmxZ5em-w/edit?gid=0#gid=0\">ceux choisis par le BDE pour les challenges</a>."
 
 #~ msgid "Welcome to INSA's pixel war! This is a temporary event part of the 2024 student integration at INSA Rouen. This website allows you to create anything you can imagine, one pixel at a time. The canvas is open from Monday to Friday between 7am and 10pm."
 #~ msgstr "Bienvenue à la pixel war de l'INSA ! C'est un événement temporaire dans le cadre de l'intégration des étudiants 3A à l'INSA Rouen. Ce site vous permet de créer tout ce que vous pouvez imaginer, un pixel à la fois. Le canvas est ouvert du lundi au vendredi entre 7h et 22h."

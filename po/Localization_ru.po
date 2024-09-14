@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Pxls\n"
-"POT-Creation-Date: 2024-09-14T09:32:35.778Z\n"
+"POT-Creation-Date: 2024-09-14T19:51:33.000Z\n"
 "Language: ru\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
@@ -1210,7 +1210,7 @@ msgid "How do I appeal a ban?"
 msgstr "Как мне обжаловать бан?"
 
 #: /views/partials/faq.handlebars
-msgid "Contact us on <a href=\"https://discord.com/invite/TpdbUyfcbJ\" target=\"_blank\">Discord</a> or send me an appeal at <a href=\"mailto:simon.girard@insa-rouen.fr\" target=\"_blank\">simon.girard@insa-rouen.fr</a> after reading the rules in the site's info panel."
+msgid "Contact the Respos Challenges on Instagram (@moyen_insage_defis) or Messenger after reading the rules in the site's info panel."
 msgstr ""
 
 #: /views/partials/faq.handlebars
@@ -1234,7 +1234,7 @@ msgid "When does the event end?"
 msgstr ""
 
 #: /views/partials/faq.handlebars
-msgid "The even will last until Friday evening. The precise time will not be announced to prevent last-second vandalism."
+msgid "The event will last until Friday evening. The precise time will not be announced to prevent last-second attacks."
 msgstr ""
 
 #: /views/partials/faq.handlebars
@@ -1254,7 +1254,7 @@ msgid "How do I report someone?"
 msgstr "Как пожаловаться на кого-то или написать о нарушении правил?"
 
 #: /views/partials/faq.handlebars
-msgid "Do not use the report button, admins won't see those. Just contact us on <a href=\"https://discord.com/invite/TpdbUyfcbJ\" target=\"_blank\">Discord</a> or send me a report at <a href=\"mailto:simon.girard@insa-rouen.fr\" target=\"_blank\">simon.girard@insa-rouen.fr</a> after reading the rules."
+msgid "Do not use the report button, admins won't see those. Just contact the leprechauns on Instagram or Messenger after reading the rules."
 msgstr ""
 
 #: /views/partials/faq.handlebars
@@ -1270,8 +1270,8 @@ msgid "How do I report bugs?"
 msgstr "Как мне сообщить о багах (ошибках) сайта?"
 
 #: /views/partials/faq.handlebars
-msgid "Submit bugs to the #dev-and-bugs channel in the <a href=\"https://pxls.space/discord\" target=\"_blank\">Discord server</a>. If you have found an exploit, please message one of the staff members privately (through DMs)."
-msgstr "Отправляйте сообщения об багах в #dev-and-bugs канал в <a href=\"https://pxls.space/discord\" target=\"_blank\">Дискорде</a>. Если вы обнаружили эксплойт, сообщите об этом одному из модераторов/администраторов в частном порядке (через личные сообщения в Дискорде)."
+msgid "Submit bugs to the orignal devs in the #dev-and-bugs channel in their <a href=\"https://pxls.space/discord\" target=\"_blank\">Discord server</a>. If you have found an exploit, please message one of their staff members privately (through DMs)."
+msgstr ""
 
 #: /views/partials/faq.handlebars
 msgid "How do I get more info or contact staff?"
@@ -1302,7 +1302,7 @@ msgid "Students participate as team members of their departments' factions. Depa
 msgstr ""
 
 #: /views/partials/info.handlebars
-msgid "The best place to reach me, Simon the admin, and the community is <a href=\"https://discord.com/invite/TpdbUyfcbJ\">the discord</a>, but you can also send me an email at <a href=\"mailto:simon.girard@insa-rouen.fr\">simon.girard@insa-rouen.fr</a>."
+msgid "If you have any question or requirements you can reach the Respos Challenges of your Department, or on instagram <a href=\"https://www.instagram.com/moyen_insage_defis\">@moyen_insage_defis</a>."
 msgstr ""
 
 #: /views/partials/info.handlebars
@@ -1350,7 +1350,7 @@ msgid "Usage of templates is autorized and encouraged."
 msgstr ""
 
 #: /views/partials/info.handlebars
-msgid "Departments with less students are expected to cover less territory. To balance the game, we don't directly rank departments by their territory but apply a coefficient to ensure fair chances for everyone. Coefficients are the same as <a href=\"https://docs.google.com/spreadsheets/d/1Rrd979ERSQUtttDS2cIrcZ8AkoIHDvGA_bwmxZ5em-w/edit?gid=0#gid=0\">those chosen by the BDE for the challenges</a>."
+msgid "Departments with less students are expected to cover less territory. To balance the game, we don't directly rank departments by their territory but apply a coefficient to ensure fair chances for everyone. Coefficients are the same as <a href=\"https://docs.google.com/spreadsheets/d/1Rrd979ERSQUtttDS2cIrcZ8AkoIHDvGA_bwmxZ5em-w/edit?gid=0#gid=0\">those chosen by the leprechauns for the challenges</a>."
 msgstr ""
 
 #: /views/partials/info.handlebars
@@ -1384,6 +1384,14 @@ msgstr ""
 #: /views/partials/info.handlebars
 msgid "Links"
 msgstr "Ссылки"
+
+#: /views/partials/info.handlebars
+msgid "Insta @moyen_insage"
+msgstr ""
+
+#: /views/partials/info.handlebars
+msgid "Insta @moyen_insage_defis"
+msgstr ""
 
 #: /views/partials/info.handlebars /public/include/lookup.js
 msgid "Discord"
@@ -2463,6 +2471,9 @@ msgstr ""
 #: /public/pxls.js
 msgid "Alert"
 msgstr "Предупреждение"
+
+#~ msgid "Submit bugs to the #dev-and-bugs channel in the <a href=\"https://pxls.space/discord\" target=\"_blank\">Discord server</a>. If you have found an exploit, please message one of the staff members privately (through DMs)."
+#~ msgstr "Отправляйте сообщения об багах в #dev-and-bugs канал в <a href=\"https://pxls.space/discord\" target=\"_blank\">Дискорде</a>. Если вы обнаружили эксплойт, сообщите об этом одному из модераторов/администраторов в частном порядке (через личные сообщения в Дискорде)."
 
 #~ msgid "The time it takes to get a pixel is dynamic, and changes based on how many people are online. The cooldown time is longer when more users are online."
 #~ msgstr "Время, необходимое для получения пикселя, рассчитывается динамически и изменяется в зависимости от того, сколько людей находится в сети. Время получения пикселя увеличивается, когда в сети больше пользователей."
