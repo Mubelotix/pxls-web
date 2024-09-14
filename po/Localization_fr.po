@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Pxls\n"
-"POT-Creation-Date: 2024-09-11T16:42:41.631Z\n"
+"POT-Creation-Date: 2024-09-14T09:27:16.246Z\n"
 "Language: fr\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
@@ -1281,6 +1281,14 @@ msgstr "Comment puis-je avoir plus d'informations ou contacter le staff ?"
 msgid "Check the info panel (the icon on the top left) for more details and links, or join our <a href=\"https://discord.com/invite/TpdbUyfcbJ\" target=\"_blank\">Discord server</a>, where a staff member will gladly respond."
 msgstr "Consultez le panneau d'information (l'icône en haut à gauche) pour plus de détails et de liens, ou rejoignez notre <a href=\"https://discord.com/invite/TpdbUyfcbJ\" target=\"_blank\">serveur Discord</a>, où un membre du staff vous répondra avec plaisir."
 
+#: /views/partials/faq.handlebars
+msgid "What if I cheat?"
+msgstr "Et si je triche ?"
+
+#: /views/partials/faq.handlebars
+msgid "I will find you. At the end of the event, I will review all the logs for every single user. All suspicious activity will be investigated. Group behavior will also be monitored to detect accounts controlled by a single user. Confirmed cheaters will see all their pixels removed and will be reported to the BDE."
+msgstr "Je vous trouverai. À la fin de l'événement, je passerai en revue tous les logs de chaque utilisateur. Toute activité suspecte sera investiguée. Les comportements de groupe seront aussi surveillés pour détecter les comptes contrôlés par un seul utilisateur. Les tricheurs confirmés verront tous leurs pixels retirés et seront signalés au BDE."
+
 #: /views/partials/info.handlebars
 msgid "Welcome!"
 msgstr "Bienvenue !"
@@ -1336,10 +1344,6 @@ msgstr "Pas de partage de comptes."
 #: /views/partials/info.handlebars
 msgid "If you believe you have been falsely banned you may contact a moderator or administrator."
 msgstr "Si tu penses avoir été banni à tort, tu peux contacter un modérateur ou un administrateur."
-
-#: /views/partials/info.handlebars
-msgid "The last event was ruined by cheaters over the last 6 hours. Such behavior will not be tolerated and will be severely punished. At the end of the event, we will deeply scan the logs and will investigate any suspicious activity. Cheaters will see their pixels removed and have their name publicly displayed for everyone to see. If you attempt to cheat, I might not find out right away, but expect me when I review the logs."
-msgstr "Le dernier événement a été ruiné par des tricheurs durant les 6 dernières heures. Ce genre de comportement ne sera pas toléré et sera sévèrement puni. À la fin de l'événement, nous analyserons les logs au peigne fin et enquêterons sur toute activité suspecte. Les tricheurs verront leurs pixels retirés et leur nom affiché publiquement. Si vous tentez de tricher, je pourrais ne pas le découvrir tout de suite, mais attendez-vous à m'entendre quand je passerai en revue les logs."
 
 #: /views/partials/info.handlebars
 msgid "Usage of templates is autorized and encouraged."
@@ -2459,6 +2463,9 @@ msgstr ""
 #: /public/pxls.js
 msgid "Alert"
 msgstr "Alerte"
+
+#~ msgid "The last event was ruined by cheaters over the last 6 hours. Such behavior will not be tolerated and will be severely punished. At the end of the event, we will deeply scan the logs and will investigate any suspicious activity. Cheaters will see their pixels removed and have their name publicly displayed for everyone to see. If you attempt to cheat, I might not find out right away, but expect me when I review the logs."
+#~ msgstr "Le dernier événement a été ruiné par des tricheurs durant les 6 dernières heures. Ce genre de comportement ne sera pas toléré et sera sévèrement puni. À la fin de l'événement, nous analyserons les logs au peigne fin et enquêterons sur toute activité suspecte. Les tricheurs verront leurs pixels retirés et leur nom affiché publiquement. Si vous tentez de tricher, je pourrais ne pas le découvrir tout de suite, mais attendez-vous à m'entendre quand je passerai en revue les logs."
 
 #~ msgid "Departments with less students are expected to cover less territory. To balance the game, we don't directly rank departments by their territory but apply a coefficient to ensure fair chances for everyone. Coefficients are as follows (over than 1 is favorable):"
 #~ msgstr "Nous nous attendons à ce que les départements avec moins d'étudiants couvrent moins de territoire. Pour équilibrer le jeu, nous ne classons pas directement les départements par leur territoire mais appliquons un coefficient pour assurer des chances équitables pour tous. Les coefficients sont les suivants (plus de 1 est favorable) :"

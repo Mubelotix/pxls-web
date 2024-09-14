@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Pxls\n"
-"POT-Creation-Date: 2024-09-11T16:42:41.631Z\n"
+"POT-Creation-Date: 2024-09-14T09:27:16.246Z\n"
 "Language: \n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
@@ -1314,6 +1314,14 @@ msgstr ""
 msgid "Check the info panel (the icon on the top left) for more details and links, or join our <a href=\"https://discord.com/invite/TpdbUyfcbJ\" target=\"_blank\">Discord server</a>, where a staff member will gladly respond."
 msgstr ""
 
+#: /views/partials/faq.handlebars
+msgid "What if I cheat?"
+msgstr ""
+
+#: /views/partials/faq.handlebars
+msgid "I will find you. At the end of the event, I will review all the logs for every single user. All suspicious activity will be investigated. Group behavior will also be monitored to detect accounts controlled by a single user. Confirmed cheaters will see all their pixels removed and will be reported to the BDE."
+msgstr ""
+
 #: /views/partials/info.handlebars
 msgid "Welcome!"
 msgstr ""
@@ -1368,10 +1376,6 @@ msgstr ""
 
 #: /views/partials/info.handlebars
 msgid "If you believe you have been falsely banned you may contact a moderator or administrator."
-msgstr ""
-
-#: /views/partials/info.handlebars
-msgid "The last event was ruined by cheaters over the last 6 hours. Such behavior will not be tolerated and will be severely punished. At the end of the event, we will deeply scan the logs and will investigate any suspicious activity. Cheaters will see their pixels removed and have their name publicly displayed for everyone to see. If you attempt to cheat, I might not find out right away, but expect me when I review the logs."
 msgstr ""
 
 #: /views/partials/info.handlebars
