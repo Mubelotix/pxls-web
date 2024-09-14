@@ -1235,7 +1235,7 @@ msgstr "Quand est-ce que l'événement se termine ?"
 
 #: /views/partials/faq.handlebars
 msgid "The event will last until Friday evening. The precise time will not be announced to prevent last-second attacks."
-msgstr ""
+msgstr "L'événement durera jusqu'au vendredi soir. L'heure précise ne sera pas annoncée pour éviter les attaques de dernière minute."
 
 #: /views/partials/faq.handlebars
 msgid "How many integration points will departments receive?"
@@ -1255,7 +1255,7 @@ msgstr "Comment est-ce que je signale quelqu'un ?"
 
 #: /views/partials/faq.handlebars
 msgid "Do not use the report button, admins won't see those. Just contact the leprechauns on Instagram or Messenger after reading the rules."
-msgstr ""
+msgstr "N'utilisez pas le bouton de signalement, les admins ne les verront pas. Contactez simplement les farfadets sur Instagram ou Messenger après avoir lu les règles."
 
 #: /views/partials/faq.handlebars
 msgid "What is a \"virginmap\"?"
@@ -1271,7 +1271,7 @@ msgstr "Comment puis-je signaler un bug ?"
 
 #: /views/partials/faq.handlebars
 msgid "Submit bugs to the orignal devs in the #dev-and-bugs channel in their <a href=\"https://pxls.space/discord\" target=\"_blank\">Discord server</a>. If you have found an exploit, please message one of their staff members privately (through DMs)."
-msgstr ""
+msgstr "Signalez les bugs aux développeurs originaux dans le canal #dev-and-bugs de leur <a href=\"https://pxls.space/discord\" target=\"_blank\">serveur Discord</a>. Si vous avez trouvé une faille, veuillez contacter un membre de leur staff en privé."
 
 #: /views/partials/faq.handlebars
 msgid "How do I get more info or contact staff?"
@@ -1303,7 +1303,7 @@ msgstr "Les étudiants participent en tant que membres des factions de leur dép
 
 #: /views/partials/info.handlebars
 msgid "If you have any question or requirements you can reach the Respos Challenges of your Department, or on instagram <a href=\"https://www.instagram.com/moyen_insage_defis\">@moyen_insage_defis</a>."
-msgstr ""
+msgstr "Si tu as des questions ou des suggestions, tu peux contacter les Respos Défis de ton département, par Messenger ou sur Instagram <a href=\"https://www.instagram.com/moyen_insage_defis\">@moyen_insage_defis</a>."
 
 #: /views/partials/info.handlebars
 msgid "Please take the time to read the rules below, and have fun creating (or changing) art!"
@@ -1351,7 +1351,7 @@ msgstr "L'utilisation de modèles est autorisée et encouragée."
 
 #: /views/partials/info.handlebars
 msgid "Departments with less students are expected to cover less territory. To balance the game, we don't directly rank departments by their territory but apply a coefficient to ensure fair chances for everyone. Coefficients are the same as <a href=\"https://docs.google.com/spreadsheets/d/1Rrd979ERSQUtttDS2cIrcZ8AkoIHDvGA_bwmxZ5em-w/edit?gid=0#gid=0\">those chosen by the leprechauns for the challenges</a>."
-msgstr ""
+msgstr "On s'attend à ce que les départements avec moins d'étudiants couvrent moins de territoire. Pour équilibrer le jeu, nous ne classons pas directement les départements par leur territoire mais appliquons un coefficient pour assurer des chances équitables pour tout le monde. Les coefficients sont les mêmes que <a href=\"https://docs.google.com/spreadsheets/d/1Rrd979ERSQUtttDS2cIrcZ8AkoIHDvGA_bwmxZ5em-w/edit?gid=0#gid=0\">ceux choisis par les farfadets pour les défis</a>."
 
 #: /views/partials/info.handlebars
 msgid "Please keep in mind that those numbers may slightly vary as not all students are fully registering in INSA systems yet. Upon request, we will manually approve those who didn't fully pay their tuition fees."
@@ -1387,11 +1387,11 @@ msgstr "Liens"
 
 #: /views/partials/info.handlebars
 msgid "Insta @moyen_insage"
-msgstr ""
+msgstr "Insta @moyen_insage"
 
 #: /views/partials/info.handlebars
 msgid "Insta @moyen_insage_defis"
-msgstr ""
+msgstr "Insta @moyen_insage_defis"
 
 #: /views/partials/info.handlebars /public/include/lookup.js
 msgid "Discord"
@@ -1439,7 +1439,7 @@ msgstr "Profil de {0}"
 
 #: /views/profile.handlebars
 msgid "My Data"
-msgstr ""
+msgstr "Mes données"
 
 #: /views/profile.handlebars
 msgid "Reports"
@@ -1451,7 +1451,7 @@ msgstr "Factions"
 
 #: /views/profile.handlebars
 msgid "Data"
-msgstr ""
+msgstr "Données"
 
 #: /views/profile.handlebars
 msgid "You must be logged in to view your profile."
@@ -1605,11 +1605,11 @@ msgstr "Tu n'es pas encore dans une faction !"
 
 #: /views/profile.handlebars
 msgid "You must be logged in to view your data."
-msgstr ""
+msgstr "Tu dois être connecté pour consulter tes données."
 
 #: /views/profile.handlebars
 msgid "Log Keys"
-msgstr ""
+msgstr "Clés de Log"
 
 #: /views/profile.handlebars
 msgid "Log keys can be used by those who have them to tell which pixels you placed on previous canvases."
@@ -1946,7 +1946,7 @@ msgstr "Aller aux coordonnées sans remplacer le modèle"
 
 #: /public/include/chat.js
 msgid "Please upload your template image to a third-party image host."
-msgstr ""
+msgstr "Merci d'uploader ton image modèle sur un hébergeur d'image tiers."
 
 #: /public/include/chat.js
 msgid "You must have at least "
