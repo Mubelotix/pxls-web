@@ -1294,8 +1294,8 @@ msgid "Welcome!"
 msgstr "Bienvenue !"
 
 #: /views/partials/info.handlebars
-msgid "Welcome to INSA's pixel war! This is a temporary event part of the third year student integration at INSA Rouen by <a href=\"https://www.instagram.com/moyen_insage\">@moyen_insage</a>. This website allows you to create anything you can imagine, one pixel at a time. The canvas is open from Monday to Friday, but closed at night from 1h30 to 6h30."
-msgstr "Bienvenue à la Pixel War de l'INSA ! C'est un événement temporaire dans le cadre de l'intégration des étudiants de troisième année à l'INSA Rouen par <a href=\"https://www.instagram.com/moyen_insage\">@moyen_insage</a>. Ce site vous permet de créer tout ce que vous pouvez imaginer, pixel par pixel. Le canvas est ouvert du lundi au vendredi, mais fermé la nuit de 1h30 à 6h30."
+msgid "Welcome to INSA's pixel war! This is a temporary event part of the third year student integration at INSA Rouen by <a href=\"https://www.instagram.com/moyen_insage\">@moyen_insage</a>. This website allows you to create anything you can imagine, one pixel at a time. The canvas is open from Monday to Friday, but closed at night from 2h to 7h."
+msgstr "Bienvenue à la Pixel War de l'INSA ! C'est un événement temporaire dans le cadre de l'intégration des étudiants de troisième année à l'INSA Rouen par <a href=\"https://www.instagram.com/moyen_insage\">@moyen_insage</a>. Ce site vous permet de créer tout ce que vous pouvez imaginer, pixel par pixel. Le canvas est ouvert du lundi au vendredi, mais fermé la nuit de 2h à 7h."
 
 #: /views/partials/info.handlebars
 msgid "Students participate as team members of their departments' factions. Departments will be ranked at the end of the event and will be rewarded for their efforts. Every participating department will receive points based on <a href=\"/stats\">their ranking</a>. The amount of points will be announced in a few days."

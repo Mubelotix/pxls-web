@@ -1300,7 +1300,7 @@ msgid "Welcome!"
 msgstr "Välkommen!"
 
 #: /views/partials/info.handlebars
-msgid "Welcome to INSA's pixel war! This is a temporary event part of the third year student integration at INSA Rouen by <a href=\"https://www.instagram.com/moyen_insage\">@moyen_insage</a>. This website allows you to create anything you can imagine, one pixel at a time. The canvas is open from Monday to Friday, but closed at night from 1h30 to 6h30."
+msgid "Welcome to INSA's pixel war! This is a temporary event part of the third year student integration at INSA Rouen by <a href=\"https://www.instagram.com/moyen_insage\">@moyen_insage</a>. This website allows you to create anything you can imagine, one pixel at a time. The canvas is open from Monday to Friday, but closed at night from 2h to 7h."
 msgstr ""
 
 #: /views/partials/info.handlebars
